@@ -16,3 +16,9 @@ Think of this as your personal playground — where you can test layouts, debug 
 
 👨‍💻 Created with dedication, curiosity, and clean code principles by Keshi
 📌 Keep coding. Keep creating. Let your Flutter creations shine bright.
+
+
+Output : Meadia_queries_&_breakpoints 
+
+<img width="475" height="441" alt="Screenshot from 2025-09-17 16-04-37" src="https://github.com/user-attachments/assets/ee8c630b-24e4-451d-9e5c-a87847a46fb0" />
+
